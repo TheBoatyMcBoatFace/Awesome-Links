@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T14:11:28.448Z" agent="5.0 (Macintosh)" etag="zAmntFW2P6vNxzJkwbwW" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T14:27:05.318Z" agent="5.0 (Macintosh)" etag="axSjHHwuQQyklfHiJVVb" version="14.5.8" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1203" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="288" dy="259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="6a7d8f32e03d9370-61" value="Outside Networks" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1084" y="296" width="493" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-60" value="Jack Ryan Server Tower" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="937" y="764" width="1023" height="616" as="geometry" />
+        <mxCell id="6a7d8f32e03d9370-60" value="&lt;div&gt;ff&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="879" y="787.5" width="1023" height="616" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-59" value="Citrix XenApp Server Farm&lt;div&gt;with firewalls&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="599" y="98" width="280" height="1010" as="geometry" />
@@ -180,6 +180,16 @@
         <mxCell id="6a7d8f32e03d9370-62" value="Peregrine Cliff" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
         </mxCell>
+        <object label="&lt;font color=&quot;#000000&quot;&gt;Dell R710&lt;/font&gt;" Manufacturer="Dell" Model="R710" Purpose="File Server" id="bq1mWzdS-mh3SYkknEID-14">
+          <mxCell style="html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.dell_poweredge_2u;fontColor=#ffffff;fillColor=#007DB8;" vertex="1" parent="1">
+            <mxGeometry x="1577" y="1151" width="162" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" Model="MD1000" Manufacturer="Dell" Purpose="Storage" id="bq1mWzdS-mh3SYkknEID-16">
+          <mxCell style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_m1000e_enclosure;fillColor=#007DB8;gradientColor=none;" vertex="1" parent="1">
+            <mxGeometry x="1577" y="1091" width="162" height="60" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
